@@ -197,4 +197,4 @@ In Postman, there's a section under the URL entry that has a place where you can
 
 Pay close attention to the documentation of the API provider to make sure you're setting your request data in the right place!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-posting-requests' title='Posting to APIs'>Posting to APIs</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Posting to APIs</p>
