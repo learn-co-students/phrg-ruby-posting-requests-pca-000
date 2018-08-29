@@ -168,6 +168,7 @@ And let's round it out by displaying the tips in our `index.html.erb` template:
 ```
 
 Now we can load our Rails server, go to `/search`, search for coffee shops, add a tip to one we like, and see our tips!
+**Note:** Tips must be at least 20 characters or else the response will be a 'param_error'. 
 
 ### POST Params vs POST Body
 
